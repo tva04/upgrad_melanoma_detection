@@ -48,10 +48,14 @@ The break down of the final provided CNN architecture step by step:
 10. **Training**: The model is trained using the `fit` method with the specified number of epochs (`epochs=50`). The `ModelCheckpoint` and `EarlyStopping` callbacks are employed to monitor the validation accuracy during training. The `ModelCheckpoint` callback saves the model with the best validation accuracy, while the `EarlyStopping` callback stops training if the validation accuracy does not improve for a specified number of epochs (patience=5 in this case). These callbacks help prevent overfitting and ensure that the model converges to the best possible solution.
 
 ## Model Summary
-<img width="413" alt="image" src="https://github.com/user-attachments/assets/2874329c-c452-49ff-8091-0f427d042d64" />
+<img width="453" alt="image" src="https://github.com/user-attachments/assets/f0c505f6-b93e-44ad-8a7b-2da1c8a42b0d" />
 
+### Model Visualisation
+
+![image](https://github.com/user-attachments/assets/77418897-fb63-4de7-880f-ed9f6c97770a)
 
 ## Model Evaluation
+![image](https://github.com/user-attachments/assets/755bbcc2-2194-42bf-8245-e46cfa610de8)
 
 
 ## Technologies Used
