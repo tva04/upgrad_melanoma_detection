@@ -3,6 +3,7 @@
 
 
 ## Table of Contents
+- [Summary](#summary)
 - [General Information](#general-information)
 - [Model Architecture](#model-architecture)
 - [Model Summary](#model-summary)
@@ -13,6 +14,9 @@
 
 <!-- You can include any other section that is pertinent to your problem -->
 
+## Summary
+- Train data accuracy - 86%
+- Test data accuracy - 83%
 ## General Information
 - The dataset comprises 2357 images depicting malignant and benign oncological conditions, sourced from the International Skin Imaging Collaboration (ISIC).
 - These images were categorized based on the classification provided by ISIC, with each subset containing an equal number of images.
@@ -55,7 +59,8 @@ The break down of the final provided CNN architecture step by step:
 ![image](https://github.com/user-attachments/assets/77418897-fb63-4de7-880f-ed9f6c97770a)
 
 ## Model Evaluation
-![image](https://github.com/user-attachments/assets/755bbcc2-2194-42bf-8245-e46cfa610de8)
+![image](https://github.com/user-attachments/assets/e2de4d56-fcd0-498f-911c-de23dda61fae)
+
 
 
 ## Technologies Used
