@@ -16,7 +16,7 @@
 
 ## Summary
 - Train data accuracy - 86%
-- Test data accuracy - 83%
+- Train data Validation accuracy - 83%
 ## General Information
 - The dataset comprises 2357 images depicting malignant and benign oncological conditions, sourced from the International Skin Imaging Collaboration (ISIC).
 - These images were categorized based on the classification provided by ISIC, with each subset containing an equal number of images.
